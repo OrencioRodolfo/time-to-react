@@ -2,7 +2,7 @@
 
 This is an introduction course to [ReactJS]. It will not cover all there is to know about React but hopefully will give you the **why**, **when** and **how** would you use it.
 
-It starts with a brief description about how we got to SPAs, shifting to an overview over existing frontend libraries/frameworks and finally how Node lets you build JavaScript applications for server side, mobile and even desktop environments.
+It starts with a brief description about how we got to SPAs, shifting to an overview over existing frontend libraries/frameworks and finally how Node let's you build JavaScript applications for server side, mobile and even desktop environments.
 
 Next we get to know [ReactJS] and all the basic stuff to get started! Here we'll build some demo applications covering several exercices about different topics in this library.
 
@@ -15,18 +15,12 @@ Then we'll end up with a [React Native](https://facebook.github.io/react-native)
 
 ## [Chapter 1: State of the art](/ch1-state-of-the-art/README.md)
 * [Introduction](/ch1-state-of-the-art/README.md#introduction)
-  * SPA vs MVC
-  * SPAs + REST APIs
-  * Automation and bundling tools
-  * Ecmascript 6 and higher
-* [Front end frameworks/libraries](/ch1-state-of-the-art/README.md#front-end-frameworkslibraries)
-  * AngularJS
-  * VueJS
-  * ReactJS
-* [JavaScript is everywhere!](/ch1-state-of-the-art/README.md#javascript-is-everywhere)
-  * Server side
-  * Mobile
-  * Desktop
+  * [SPA vs MPA](/ch1-state-of-the-art/README.md#spa-vs-mpa)
+  * [SPAs + REST APIs](/ch1-state-of-the-art/README.md#spas--rest-apis)
+  * [Automation and bundling tools](/ch1-state-of-the-art/README.md#automation-and-bundling-tools)
+  * [ECMAScript 6 and ECMAScript Next](/ch1-state-of-the-art/README.md#ecmascript-6-and-ecmascript-next)
+* [Front end frameworks/libraries](/ch1-state-of-the-art/README.md#frontend-frameworkslibraries)
+* [Beyond the Browser](/ch1-state-of-the-art/README.md#beyond-the-browser)
 
 ## [Chapter 2: JS fundamentals](/ch2-js-fundamentals/README.md)
 * [Watch your language](https://github.com/Exictos-DCS/watch-your-language)
