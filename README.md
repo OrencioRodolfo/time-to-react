@@ -33,20 +33,18 @@ Then we'll end up with a [React Native](https://facebook.github.io/react-native)
 * [Resources](/ch2-js-fundamentals#resources)
 
 ## [Chapter 3: Intro to ReactJS](/ch3-intro-to-react-js/README.md)
-* [What is React?](/ch3-intro-to-react-js/README.md#what-is-react)
-  * Virtual DOM
-* [First demo app](/ch3-intro-to-react-js/README.md#first-demo-app)
-  * Environment setup ([create-react-app](https://github.com/facebook/create-react-app))
-  * Introducing JSX
-  * Components
-    * Passing data through props
-    * Smart vs dumb
-  * Lifecycle methods
-  * Managing state
-    * Immutability
-  * Handling events
-  * Lists and keys
-  * Forms
+- [What is React?](/ch3-intro-to-react-js/README.md#what-is-react-)
+  * [Virtual DOM](/ch3-intro-to-react-js/README.md#virtual-dom)
+  * [Introducing JSX](/ch3-intro-to-react-js/README.md#introducing-jsx)
+  * [Components](/ch3-intro-to-react-js/README.md#components)
+    + [Functional components](/ch3-intro-to-react-js/README.md#functional-components)
+    + [Class components](/ch3-intro-to-react-js/README.md#class-components)
+    + [Lifecycle methods](/ch3-intro-to-react-js/README.md#lifecycle-methods)
+    + [Managing state](/ch3-intro-to-react-js/README.md#managing-state)
+  * [Lists and keys](/ch3-intro-to-react-js/README.md#lists-and-keys)
+- [Demo app](/ch3-intro-to-react-js/README.md#demo-app)
+  * [Setup](/ch3-intro-to-react-js/README.md#setup)
+  * [Challenge](/ch3-intro-to-react-js/README.md#challenge)
 
 ## [Chapter 4: Intro do Redux](/ch4-intro-to-redux/README.md)
 * [What is redux?](/ch4-intro-to-redux/README.md#what-is-redux)

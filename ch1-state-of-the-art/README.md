@@ -206,8 +206,16 @@ You can write your code using ES.Next and then, at bundling time your ES.Next co
 
 There are tons of solutions about building frontend apps nowadays. But the ones you'll probably heard about are [Angular], [VueJS] and (obviously) [ReactJS].
 
+Like I've said before, there's no "one fits all solution". Chose wisely based on your project.  
+
+We keep saying "[Angular] framework" and "[ReactJS] library", but why this difference? Why is Angular considered a framework and React a library?  
+Well, React focuses only on building User Interfaces while Angular focuses on building Single Page Applications.  
+What this means is that Angular gives you much more functionality like routing and form validation. It is built to control the whole user experience.
+
+But isn't this possible to achieve with React too? It is, but not only with react itself. You'll need some other libraries from the React ecosystem like [react-router] or [redux-form].
+
 React has been the one gaining more traction these past years but hey, don't chose it blindly.  
-I could give you an overview about each one of these, but I wouldn't dare trying to replace other such good resources about this topic.
+I could give you a much more deeper overview about each one of these, but I wouldn't dare trying to replace other such good resources about this topic.
 
 Here they are:
 * [Top JavaScript Libraries & Tech to Learn in 2018]
@@ -275,3 +283,5 @@ Well known mobile apps [Facebook] and [Instagram] are examples of mobile apps bu
 [PWAs]: https://developers.google.com/web/progressive-web-apps/
 [Facebook]: https://www.facebook.com/
 [Instagram]: https://www.instagram.com/
+[react-router]: https://github.com/ReactTraining/react-router
+[redux-form]: https://redux-form.com/7.3.0/
