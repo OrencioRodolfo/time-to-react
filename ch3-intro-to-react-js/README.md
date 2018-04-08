@@ -1,3 +1,5 @@
+# Table of contents
+
 - [What is React?](#what-is-react-)
   * [Virtual DOM](#virtual-dom)
   * [Introducing JSX](#introducing-jsx)
@@ -334,4 +336,4 @@ The API endpoints that we'll need are:
 
 ![](https://i.imgur.com/oKV8MAW.png)
 
-![](https://i.imgur.com/XieJ7iZ.png)
+![](https://i.imgur.com/t6mSxUW.png)

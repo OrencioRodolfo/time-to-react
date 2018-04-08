@@ -47,29 +47,28 @@ Then we'll end up with a [React Native](https://facebook.github.io/react-native)
   * [Challenge](/ch3-intro-to-react-js/README.md#challenge)
 
 ## [Chapter 4: Intro do Redux](/ch4-intro-to-redux/README.md)
-* [What is redux?](/ch4-intro-to-redux/README.md#what-is-redux)
-  * Why and when should you use it?
-  * Three principles
-    * Single source of truth
-    * State is read-only
-    * Changes are made with pure functions
-* [Basics](/ch4-intro-to-redux/README.md#basics)
-  * Actions
-  * Action creators
-  * Reducers
-  * Data flow
-* [Advanced](/ch4-intro-to-redux/README.md#advanced)
-  * Async actions
-  * Middleware
-* [Demo app](/ch4-intro-to-redux/README.md#demo-app)
-  * react-redux
-  * simple data flow example
+- [What is redux?](/ch4-intro-to-redux/README.md#what-is-redux-)
+  * [Why and when should you use it?](/ch4-intro-to-redux/README.md#why-and-when-should-you-use-it-)
+  * [Three principles](/ch4-intro-to-redux/README.md#three-principles)
+    + [Single source of truth](/ch4-intro-to-redux/README.md#single-source-of-truth)
+    + [State is read-only](/ch4-intro-to-redux/README.md#state-is-read-only)
+    + [Changes are made with pure functions](/ch4-intro-to-redux/README.md#changes-are-made-with-pure-functions)
+- [Basics](/ch4-intro-to-redux/README.md#basics)
+  * [Actions](/ch4-intro-to-redux/README.md#actions)
+  * [Action creators](/ch4-intro-to-redux/README.md#action-creators)
+  * [Reducers](/ch4-intro-to-redux/README.md#reducers)
+  * [Data flow](/ch4-intro-to-redux/README.md#data-flow)
+- [Advanced](/ch4-intro-to-redux/README.md#advanced)
+  * [Async actions](/ch4-intro-to-redux/README.md#async-actions)
+  * [Middleware](/ch4-intro-to-redux/README.md#middleware)
+- [Connected components - [react-redux]](/ch4-intro-to-redux/README.md#connected-components---react-redux)
+- [Demo app](/ch4-intro-to-redux/README.md#demo-app)
 
 ## [Chapter 5: Testing react apps](/ch5-testing-react-apps/README.md)
 * [Jest](/ch5-testing-react-apps/README.md#jest)
 * [Cypress](/ch5-testing-react-apps/README.md#cypress)
 
-## [Chapter 6: React Native](/ch6-react-native/README.md)
+## [Chapter 5: React Native](/ch6-react-native/README.md)
 * [Setup](/ch6-react-native/README.md#setup)
 * [Style](/ch6-react-native/README.md#style)
 * [Flexbox](/ch6-react-native/README.md#flexbox)

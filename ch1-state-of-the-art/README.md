@@ -1,3 +1,5 @@
+# Table of contents
+
 - [Introduction](#introduction)
   * [SPA vs MPA](#spa-vs-mpa)
   * [SPAs + REST APIs](#spas---rest-apis)
