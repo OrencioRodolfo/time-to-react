@@ -1,4 +1,5 @@
-- [Hold your horses!](#hold-your-horses-)
+# Table of contents
+- [Hold your horses!](#hold-your-horses)
 - [JS quiz](#js-quiz)
   * [Scopes](#scopes)
   * [Hoisting](#hoisting)

@@ -1,6 +1,6 @@
 # Table of contents
 
-- [What is React?](#what-is-react-)
+- [What is React?](#what-is-react)
   * [Virtual DOM](#virtual-dom)
   * [Introducing JSX](#introducing-jsx)
   * [Components](#components)

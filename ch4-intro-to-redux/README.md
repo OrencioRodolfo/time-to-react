@@ -1,7 +1,7 @@
 # Table of contents
 
-- [What is redux?](#what-is-redux-)
-  * [Why and when should you use it?](#why-and-when-should-you-use-it-)
+- [What is redux?](#what-is-redux)
+  * [Why and when should you use it?](#why-and-when-should-you-use-it)
   * [Three principles](#three-principles)
     + [Single source of truth](#single-source-of-truth)
     + [State is read-only](#state-is-read-only)
